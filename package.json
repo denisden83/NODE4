@@ -1,0 +1,8 @@
+{
+  "name": "hw4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:denisden83/NODE4.git",
+  "author": "denisden83 <denisden83@gmail.com>",
+  "license": "MIT"
+}
