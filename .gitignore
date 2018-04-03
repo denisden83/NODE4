@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+.DS_Store
+*.lock
+!yarn.lock
+node_modules/
