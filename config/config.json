@@ -1,0 +1,26 @@
+{
+  "port": 3300,
+  "postgres": {
+    "user": "postgres",
+    "host": "localhost",
+    "database": "hw4",
+    "password": "",
+    "port": 5432
+  },
+  "sendMail": {
+    "subject": "Сообщение с сайта",
+    "finalDestination": "destination@mail",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 465,
+      "secure": true,
+      "auth": {
+        "user": "trasporter@mail",
+        "pass": "password"
+      },
+      "tls": {
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+.hidden {
+    display: none;
+}
+.form-email__status {
+    background-color: white;
+    color: red;
+    text-align: center
+}
